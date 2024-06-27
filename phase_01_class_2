@@ -1,0 +1,3 @@
+last bit set or not -->  (x & 1 )
+
+kth bit   on or not -->   ((x  >> k) & 1)
